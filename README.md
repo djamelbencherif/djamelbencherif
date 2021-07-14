@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @djamelbencherif
 - 👀 I’m interested in JS NODE VUE MONGODB & i 💞️ UI
 - 🌱 I’m currently learning all 
-- 💞️ I’m looking to collaborate on planifzer 
+- 💞️ I’m looking to collaborate on Ublob 
 - 📫 How to reach me https://bencherif-djamel.com/
 
 <!---
