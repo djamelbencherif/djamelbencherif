@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @djamelbencherif
 - 👀 I’m interested in JS NODE VUE MONGODB & i 💞️ UI
-- 🌱 I’m currently learning Flutter SDK 🤓
-- 💞️ I’m looking to collaborate on ublob 📫
 
 
 <!---
