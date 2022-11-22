@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @djamelbencherif
-- 👀 I’m interested in JS NODE VUE MONGODB & i 💞️ UI
-
+👋 Hi, the world 🦕
 
 <!---
 djamelbencherif/djamelbencherif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
