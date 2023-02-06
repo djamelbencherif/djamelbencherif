@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Djimy</h1>
 <h3 align="center">A passionate frontend developer and backend</h3>
 
-- 🌱 I’m currently learning **Deno**
+- 🌱 I’m currently working with Docker Node Vue ****
 
 - 💬 Ask me about **Vue, Oak, Docker**
 
