@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working with **Docker Node Vue**
 
-- 💬 Ask me about **Vue, Oak, Docker**
+- 💬 Ask me about **Vue, Hono, Docker**
 
 - 📫 How to reach me **In github**
 
